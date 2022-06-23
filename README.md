@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is David Lin, my pronouns are he/him.
+I'm a full stack software engineer with a particular interest in front-end development and UX/UI. I am an General Assembly fellow that will graduate in July. 
+I am currently learning about Django and Python.
+I hope to collaborate with more of my classmates in the future on more passion projects. 
+I am always looking for advice and help with further developing my knowledge and skills in the software programming landscape. 
+I'm always down to talk or have a good debate about movies, video games and sports. 
+
 <!--
 **Sergoto/Sergoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
