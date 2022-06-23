@@ -7,7 +7,7 @@ I am currently learning about Django and Python.
 I hope to collaborate with more of my classmates in the future on more passion projects. 
 I am always looking for advice and help with further developing my knowledge and skills in the software programming landscape. 
 
-I'm always down to talk or have a good debate about movies, video games and sports. 
+I'm always down to talk or have a good debate about food, movies, video games, sports or 90s tv and music. 
 
 <!--
 **Sergoto/Sergoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
